@@ -1,5 +1,4 @@
 # Autotests-java
-The final project for the Autotest in Java course.
 
 Цель проекта: 
 Автоматизировать все основные тестовые сценарии сайта, чтобы на регресс уходило меньше времени.
